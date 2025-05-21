@@ -16,7 +16,7 @@
       "applicationUrl": "http://localhost:5293",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "OPENAI_API_KEY": "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"
+        "OPENAI_API_KEY": "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"
       }
     },
     "https": {
@@ -26,7 +26,7 @@
       "applicationUrl": "https://localhost:7049;http://localhost:5293",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "OPENAI_API_KEY": "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"
+        "OPENAI_API_KEY": "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"
       }
     },
     "IIS Express": {
@@ -34,7 +34,7 @@
       "launchBrowser": true,
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "OPENAI_API_KEY": "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"
+        "OPENAI_API_KEY": "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"
       }
     }
   }
