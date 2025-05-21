@@ -1,0 +1,12 @@
+@model IEnumerable<JobPosting>
+
+<h2>Upload CV</h2>
+
+<form  
+    asp-controller="Job"  
+    asp-action="UploadCv"  
+    method="post"  
+    enctype="multipart/form-data">
+    <input type="file" name="file" />
+    <button type="submit">Tìm việc</button>
+</form>

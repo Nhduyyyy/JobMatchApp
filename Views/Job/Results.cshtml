@@ -1,0 +1,11 @@
+@model List<JobPosting>
+<h2>Kết quả</h2>
+<ul>
+    @foreach(var job in Model) {
+        <li>
+            <h3>@job.Title</h3>
+            <p>@job.Description</p>
+        </li>
+    }
+</ul>
+<a href="/Job/Index">↩️ Quay lại</a>
